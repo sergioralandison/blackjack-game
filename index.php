@@ -11,9 +11,9 @@
 <body>
     <h1>Blackjack Game</h1>
     <p id="message-el">Want to play a round ?</p>
-    <p>Cards:</p>
-    <p>Sum:</p>
-    <button id="start-el">Start Game</button>
+    <p id="cards-el">Cards:</p>
+    <p id="sum-el">Sum:</p>
+    <button id="start-el" onclick="renderGame()">Start Game</button>
     <script src="script.js"></script>
 </body>
 </html>
