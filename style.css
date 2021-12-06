@@ -6,6 +6,7 @@ body {
     text-align: center;
     color: white;
     font-weight: bold;
+    font-size: 25px;
 }
 
 h1 {
@@ -16,4 +17,17 @@ h1 {
     color: white;
     font-weight: bold;
     font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 160px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    text-transform: uppercase;
 }
