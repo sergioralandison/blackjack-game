@@ -17,5 +17,3 @@ if (sum <= 20) {
     gameMessage = "You're out of the game!"
     isAlive = false
 }
-
-console.log(gameMessage)
